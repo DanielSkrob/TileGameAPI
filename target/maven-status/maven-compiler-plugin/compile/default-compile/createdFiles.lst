@@ -1,0 +1,4 @@
+BoardStorage\TileStorage\TileTemplate.class
+BoardStorage\TileStorage\GameBoardRender.class
+BoardStorage\CodeStorage\Announcer.class
+BoardStorage\TileStorage\Tile.class
