@@ -48,7 +48,7 @@ public class GameBoard implements GameBoardTemplate{
         return tiles;
     }
 
-    public void setBoard(int x, int y, char symbol) throws Exception {
+    public void setTile(int x, int y, char symbol) throws Exception {
         if (x > x() || y > y()){
             throw new Exception("Byly zadány moc vysoké hodnoty - mimo pokrytí tabulky");
         }

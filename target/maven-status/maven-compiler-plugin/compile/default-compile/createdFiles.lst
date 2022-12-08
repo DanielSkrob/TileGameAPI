@@ -1,4 +1,6 @@
 BoardStorage\TileStorage\TileTemplate.class
+BoardStorage\Coordinates.class
 BoardStorage\TileStorage\GameBoardRender.class
 BoardStorage\CodeStorage\Announcer.class
+BoardStorage\CodeStorage\CoordinatesInput.class
 BoardStorage\TileStorage\Tile.class
